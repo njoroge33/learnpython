@@ -7,7 +7,7 @@ if number % num == 0:
   print ("even number")
 else: print ("odd number")
 
-if number%check ==0:
+if number%check == 0:
     print ("number divisible by 4")
 else: print("number not divisible by 4")
 
